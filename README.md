@@ -1,1 +1,1 @@
-# [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-banner.svg)](https://www.nikkiabarca.me)
+# [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-banner.png)](https://www.nikkiabarca.me)
