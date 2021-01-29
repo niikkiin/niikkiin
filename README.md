@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niikkiin&layout=compact)](https://github.com/niikkiin/)
 
+## I am good at a few things:
+<img src="https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/tags.svg" width="auto" height="auto">
+
 <table>
   <tr>
     <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true"/></td>
