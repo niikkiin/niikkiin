@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+        }
+        .tag {
+          border-radius: 0.25em;
+          color: #FBFBFF;
+          border: 1px solid #FBFBFF;
+          display: inline-block;
+          font-size: 0.75em;
+          line-height: 2em;
+          margin: 0.125em;
+          padding: 0 0.5em;
+          text-decoration: none;
+          font-family: sans-serif;
+        }
+        .tag:hover {
+
+          border: 1px solid #E8BACE;
+        }
+      </style>
+
+      <div class="tags">
+        <div class="tag">HTML</div>
+        <div class="tag">(S)CSS</div>
+        <div class="tag">Javascript</div>
+        <div class="tag">Phoenix</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Django</div>
+        <div class="tag">React</div>
+        <div class="tag">Python</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Framework7</div>
+        <div class="tag">React Native</div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
