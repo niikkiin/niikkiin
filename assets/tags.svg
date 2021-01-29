@@ -28,15 +28,15 @@
       </style>
 
       <div class="tags">
+        <div class="tag">Django</div>
+        <div class="tag">React</div>
+        <div class="tag">Python</div>
+      </div>
+      <div class="tags">
         <div class="tag">HTML</div>
         <div class="tag">(S)CSS</div>
         <div class="tag">Javascript</div>
         <div class="tag">Phoenix</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Django</div>
-        <div class="tag">React</div>
-        <div class="tag">Python</div>
       </div>
       <div class="tags">
         <div class="tag">Framework7</div>
