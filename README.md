@@ -6,8 +6,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img width="20" height="20" src="https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true"/></td>
-    <td valign="top"><img width="20" height="20" src="https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true"/></td>
-    <td valign="top"><img width="20" height="20" src="https://github.com/niikkiin/niikkiin/blob/main/assets/github-icon.png?raw=true"/></td>
+    <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true"/></td>
+    <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true"/></td>
+    <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/github-icon.png?raw=true"/></td>
   </tr>
 </table>
