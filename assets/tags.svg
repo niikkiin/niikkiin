@@ -16,7 +16,7 @@
           display: inline-block;
           font-size: 0.75em;
           line-height: 2em;
-          margin: 0.125em;
+          margin: 0.4em;
           padding: 0 0.5em;
           text-decoration: none;
           font-family: sans-serif;
@@ -40,6 +40,7 @@
       </div>
       <div class="tags">
         <div class="tag">Framework7</div>
+        <div class="tag">Building UIs</div>
         <div class="tag">React Native</div>
       </div>
 
