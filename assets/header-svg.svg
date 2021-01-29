@@ -277,6 +277,7 @@
     }
   }
     </style>
+      </foreignObject>
 <g id="header-svg">
 <g id="header-banner">
 <g id="Group 4">
@@ -2631,5 +2632,5 @@
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </linearGradient>
 </defs>
-  </foreignObject>
+
 </svg>
