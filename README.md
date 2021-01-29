@@ -12,6 +12,6 @@
   </tr>
 </table>
 
-![alt text](https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true | 15x15)
-![alt text](https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true | 15x15)
-![alt text](https://github.com/niikkiin/niikkiin/blob/main/assets/github-icon.png?raw=true | 15x15)
+![alt text](https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true =15x15)
+![alt text](https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true =15x15)
+![alt text](https://github.com/niikkiin/niikkiin/blob/main/assets/github-icon.png?raw=true =15x15)
