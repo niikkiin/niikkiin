@@ -11,8 +11,8 @@
         }
         .tag {
           border-radius: 0.25em;
-          color: #FBFBFF;
-          border: 1px solid #FBFBFF;
+          color: #e4a6c3;
+          border: 1px solid #e4a6c3;
           display: inline-block;
           font-size: 0.75em;
           line-height: 2em;
