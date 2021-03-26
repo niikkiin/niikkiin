@@ -12,8 +12,20 @@ I am full-stack developer who deeply adore being multi-disciplined on my field o
 
 <table>
   <tr>
-    <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true"/></td>
-    <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true"/></td>
-    <td valign="top"><img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/github-icon.png?raw=true"/></td>
+    <td valign="top">
+      <a href="https://www.facebook.com/nikkiamyam/" target="_blank">
+        <img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/facebook-icon.png?raw=true"/>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="www.linkedin.com/in/nikkiabarca" target="_blank">
+        <img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true"/>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/niikkiin" target="_blank">
+        <img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/github-icon.png?raw=true"/>
+      </a>
+    </td>
   </tr>
 </table>
