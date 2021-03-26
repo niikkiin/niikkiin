@@ -18,7 +18,7 @@ I am full-stack developer who deeply adore being multi-disciplined on my field o
       </a>
     </td>
     <td valign="top">
-      <a href="www.linkedin.com/in/nikkiabarca" target="_blank">
+      <a href="https://www.linkedin.com/in/nikkiabarca" target="_blank">
         <img width="30" height="30" src="https://github.com/niikkiin/niikkiin/blob/main/assets/linkedin-icon.png?raw=true"/>
       </a>
     </td>
