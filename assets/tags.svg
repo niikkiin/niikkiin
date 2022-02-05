@@ -34,12 +34,13 @@
         <div class="tag">Python</div>
       </div>
       <div class="tags">
-        <div class="tag">HTML</div>
         <div class="tag">(S)CSS</div>
         <div class="tag">Javascript</div>
+        <div class="tag">Typescript</div>
         <div class="tag">TailwindCSS</div>
       </div>
       <div class="tags">
+        <div class="tag">HTML</div>
         <div class="tag">Framework7</div>
         <div class="tag">Building UIs</div>
         <div class="tag">React Native</div>
