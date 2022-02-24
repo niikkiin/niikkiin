@@ -67,7 +67,5 @@ I am full-stack developer who deeply adore being multi-disciplined on my field o
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD4897,50:E8BACE,100:FD4897&height=100&section=footer"/>
 
