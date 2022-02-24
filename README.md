@@ -11,11 +11,11 @@ I am full-stack developer who deeply adore being multi-disciplined on my field o
 
 - 👨‍💻 All of my projects are available at [www.nikki.codes](www.nikki.codes)
 
-- 📝 I regularly write articles on [https://www.nikki.codes/blog](https://www.nikki.codes/blog)
+- 📝 I regularly write articles on [www.nikki.codes/blog](https://www.nikki.codes/blog)
 
-- 📫 How to reach me **abarcanikki@gmail.com**
+- 📫 How to reach me **abarcanikki@gmail.com** , [@nikkiacodes](https://twitter.com/nikkiacodes) on Twitter
 
-- 📄 Know about my experiences [https://www.nikki.codes/resume](https://www.nikki.codes/resume)
+- 📄 Know about my experiences [www.nikki.codes/resume](https://www.nikki.codes/resume)
 
 [![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=niikkiin&count_private=true&show_icons=true&title_color=E8BACE&bg_color=040F16&text_color=FBFBFF&icon_color=E8BACE&include_all_commits=true&custom_title=Nikki%27s%20Github%20Stats)](https://github.com/niikkiin/)
 
