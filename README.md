@@ -1,6 +1,6 @@
 # [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-svg.png)](https://www.nikkiabarca.me)
 
-# Hi! 👋️
+# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=niikkiin&color=E8BACE)
 
 I am full-stack developer who deeply adore being multi-disciplined on my field of interests. My focus is working on engaging applications across diferrent devices out there. I believe that bringing design to life with the help of programming is essential. So I specialize in a multi-disciplinary approach to my work that incorporates design and development.
