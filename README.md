@@ -1,7 +1,11 @@
-# [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-svg.png)](https://www.nikkiabarca.me)
+<!-- # [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-svg.png)](https://www.nikkiabarca.me) -->
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8BACE&height=200&section=header&text=Hi,%20I%27m%20Nikki&animation=fadeIn&fontColor=040F16&fontSize=40&desc=Frontend%20Engineer&descAlignY=48&fontAlignY=30"/>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you!
 ![](https://komarev.com/ghpvc/?username=niikkiin&color=E8BACE)
+
 
 I am full-stack developer who deeply adore being multi-disciplined on my field of interests. My focus is working on engaging applications across diferrent devices out there. I believe that bringing design to life with the help of programming is essential. So I specialize in a multi-disciplinary approach to my work that incorporates design and development.
 
@@ -63,5 +67,7 @@ I am full-stack developer who deeply adore being multi-disciplined on my field o
   </tr>
 </table>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
