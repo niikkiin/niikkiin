@@ -5,10 +5,29 @@
 
 I am full-stack developer who deeply adore being multi-disciplined on my field of interests. My focus is working on engaging applications across diferrent devices out there. I believe that bringing design to life with the help of programming is essential. So I specialize in a multi-disciplinary approach to my work that incorporates design and development.
 
+- 🔭 I’m currently working on my **Personal Portfolio**
+
+- 🌱 I’m currently learning **Web3**
+
+- 👨‍💻 All of my projects are available at [www.nikki.codes](www.nikki.codes)
+
+- 📝 I regularly write articles on [https://www.nikki.codes/blog](https://www.nikki.codes/blog)
+
+- 📫 How to reach me **abarcanikki@gmail.com**
+
+- 📄 Know about my experiences [https://www.nikki.codes/resume](https://www.nikki.codes/resume)
+
 [![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=niikkiin&count_private=true&show_icons=true&title_color=E8BACE&bg_color=040F16&text_color=FBFBFF&icon_color=E8BACE&include_all_commits=true&custom_title=Nikki%27s%20Github%20Stats)](https://github.com/niikkiin/)
 
 ## I am good at a few things:
 <img src="https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/tags.svg" width="auto" height="auto">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niikkiin&show_icons=true&locale=en&layout=compact" alt="niikkiin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niikkiin&show_icons=true&locale=en" alt="niikkiin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niikkiin&" alt="niikkiin" /></p>
+
 
 <table>
   <tr>
