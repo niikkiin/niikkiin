@@ -1,7 +1,7 @@
 <!-- # [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-svg.png)](https://www.nikkiabarca.me) -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8BACE&height=200&section=header&text=Hi!%20I%27m%20Nikki&animation=fadeIn&fontColor=040F16&fontSize=40&desc=Frontend%20Engineer&descAlignY=48&fontAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD4897,50:E8BACE,100:FD4897&height=200&width=100%&section=header&text=Hi,%20I%27m%20Nikki&animation=fadeIn&fontColor=040F16&fontSize=40&desc=Frontend%20Engineer&descAlignY=48&fontAlignY=30"/>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you!
 ![](https://komarev.com/ghpvc/?username=niikkiin&color=E8BACE)
