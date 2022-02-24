@@ -22,10 +22,6 @@ I am full-stack developer who deeply adore being multi-disciplined on my field o
 ## I am good at a few things:
 <img src="https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/tags.svg" width="auto" height="auto">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niikkiin&show_icons=true&locale=en&layout=compact" alt="niikkiin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niikkiin&show_icons=true&locale=en" alt="niikkiin" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niikkiin&" alt="niikkiin" /></p>
 
 
