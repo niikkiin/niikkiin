@@ -13,7 +13,7 @@ I am frontend engineer who deeply adore being multi-disciplined on my field of i
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [www.nikki.codes](www.nikki.codes)
+- 👨‍💻 All of my projects are available at [www.nikki.codes](https://www.nikki.codes)
 
 - 📝 I regularly write articles on [www.nikki.codes/blog](https://www.nikki.codes/blog)
 
