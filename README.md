@@ -1,13 +1,13 @@
 <!-- # [![Nikki's Header](https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/header-svg.png)](https://www.nikkiabarca.me) -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD4897,50:E8BACE,100:FD4897&height=200&width=100%&section=header&text=Hi,%20I%27m%20Nikki&animation=fadeIn&fontColor=040F16&fontSize=40&desc=Frontend%20Engineer&descAlignY=48&fontAlignY=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FD4897,50:E8BACE,100:FD4897&height=200&width=100%&section=header&text=Hi,%20I%27m%20Nikki&animation=fadeIn&fontColor=040F16&fontSize=40&desc=Full-Stack%20Developer&descAlignY=48&fontAlignY=30"/>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you!
 ![](https://komarev.com/ghpvc/?username=niikkiin&color=E8BACE&label=My+visitors)
 
 
-I am frontend engineer who deeply adore being multi-disciplined on my field of interests. My focus is working on engaging applications across diferrent devices out there. I believe that bringing design to life with the help of programming is essential. So I specialize in a multi-disciplinary approach to my work that incorporates design and development.
+I am full-stack engineer who deeply adore being multi-disciplined on my field of interests. My focus is working on engaging applications across diferrent devices out there. I believe that bringing design to life with the help of programming is essential. So I specialize in a multi-disciplinary approach to my work that incorporates design and development.
 
 - 🔭 I’m currently working on my **Personal Portfolio - v5.0** *(thinking of working on v6.0 because I wanna explore a new front-end framework for my portfolio)*
 
@@ -20,6 +20,8 @@ I am frontend engineer who deeply adore being multi-disciplined on my field of i
 - 📫 How to reach me **abarcanikki@gmail.com** , [@nikkiacodes](https://twitter.com/nikkiacodes) on Twitter
 
 - 📄 Know about my experiences [www.nikki.codes/resume](https://www.nikki.codes/resume)
+
+- 🎓 Graduate at Polytechnic University of the Philippines (Computer Engineer)
 
 - ⚡ Fun fact **I am a GTD enthusiast**
 
