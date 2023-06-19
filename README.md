@@ -25,7 +25,7 @@ I am full-stack engineer who deeply adore being multi-disciplined on my field of
 
 - ⚡ Fun fact **I am a GTD enthusiast**
 
-[![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=niikkiin&count_private=true&show_icons=true&title_color=E8BACE&bg_color=040F16&text_color=FBFBFF&icon_color=E8BACE&include_all_commits=true&custom_title=Nikki%27s%20Github%20Stats)](https://github.com/niikkiin/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=niikkiin&theme=rose-pine&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 
 ## I am good at a few things:
