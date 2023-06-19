@@ -32,12 +32,20 @@
         <div class="tag">ReactJS</div>
         <div class="tag">NextJS</div>
         <div class="tag">Python</div>
+        <div class="tag">NextJs</div>
       </div>
       <div class="tags">
         <div class="tag">(S)CSS</div>
         <div class="tag">Javascript</div>
         <div class="tag">Typescript</div>
         <div class="tag">TailwindCSS</div>
+        <div class="tag">Chakra UI</div>
+      </div>
+       <div class="tags">
+        <div class="tag">Web3</div>
+        <div class="tag">EthersJs</div>
+        <div class="tag">Cryptography</div>
+        <div class="tag">Dapps</div>
       </div>
       <div class="tags">
         <div class="tag">HTML</div>
