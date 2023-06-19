@@ -15,7 +15,7 @@ I am full-stack engineer who deeply adore being multi-disciplined on my field of
 
 - 👨‍💻 All of my projects are available at [www.nikki.codes](https://www.nikki.codes)
 
-- 📝 I regularly write articles on [www.nikki.codes/blog](https://www.nikki.codes/blog)
+- 📝 I sometimes write articles on [www.nikki.codes/blog](https://www.nikki.codes/blog)
 
 - 📫 How to reach me **abarcanikki@gmail.com** , [@0xnikkin](https://twitter.com/0xnikkin) on Twitter
 
