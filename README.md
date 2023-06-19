@@ -9,7 +9,7 @@
 
 I am full-stack engineer who deeply adore being multi-disciplined on my field of interests. My focus is working on engaging applications across diferrent devices out there. I believe that bringing design to life with the help of programming is essential. So I specialize in a multi-disciplinary approach to my work that incorporates design and development.
 
-- 🔭 I’m currently working on my **Personal Portfolio - v5.0** *(thinking of working on v6.0 because I wanna explore a new front-end framework for my portfolio)*
+- 🔭 I’m working on my **Personal Portfolio - v6.0**
 
 - 🌱 I’m currently learning **Web3**
 
