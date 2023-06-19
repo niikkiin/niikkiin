@@ -23,7 +23,7 @@ I am full-stack engineer who deeply adore being multi-disciplined on my field of
 
 - 🎓 Graduate at Polytechnic University of the Philippines (Computer Engineer)
 
-- ⚡ Fun fact **I am a GTD enthusiast**
+- ⚡ Fun fact **I am a GTD enthusiast** - Things 3 and Obsidian lover!
 
 
 ## I am good at a few things:
