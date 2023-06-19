@@ -25,13 +25,11 @@ I am full-stack engineer who deeply adore being multi-disciplined on my field of
 
 - ⚡ Fun fact **I am a GTD enthusiast**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=niikkiin&theme=rose-pine&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-
 
 ## I am good at a few things:
 <img src="https://raw.githubusercontent.com/niikkiin/niikkiin/main/assets/tags.svg" width="auto" height="auto">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niikkiin&" alt="niikkiin" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=niikkiin&theme=rose-pine&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
